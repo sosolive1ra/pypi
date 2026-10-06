@@ -1,0 +1,9 @@
+colorama
+gTTS
+art
+pgzeroe
+easygui
+customkinter
+streamlit
+flet
+gradio

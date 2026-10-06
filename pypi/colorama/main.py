@@ -1,0 +1,10 @@
+from colorama import Fore, Back, Style
+print(Fore.RED + 'biblioteca colorama')
+print(Back.GREEN + 'esther')
+print(Style.DIM + 'sophia')
+print(Style.DIM + 'moriga')
+print(Style.DIM + 'elo')
+print(Style.DIM + 'bianca')
+print(Style.DIM + 'na aula do professor lucas')
+print(Style.RESET_ALL)
+print('back to normal now')
